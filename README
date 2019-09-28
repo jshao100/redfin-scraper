@@ -1,0 +1,8 @@
+Redfin scraper to pull data and turn into CSV format
+
+Provided redfin search page, scrape each page and input into DB
+
+TODO:
+read all properties from given redfin http link
+save all property urls to DB
+scrape redfin property page and save to DB
